@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: cadetblue;
+}
+
+#section {
+  width: 784 px;
+  height: 391 px;
+  background-image: url('../img/body\ 1.jpeg');
+}
+
+#projects {
+  background-color: cadetblue;
+}
+
+section {
+  padding-top: 5rem;
+}
